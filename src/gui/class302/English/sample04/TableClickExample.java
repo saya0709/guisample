@@ -12,9 +12,11 @@ import javax.swing.SwingUtilities;
 import javax.swing.table.DefaultTableModel;
 import javax.swing.table.TableColumn;
 
+//github
+
 public class TableClickExample extends JFrame{
 	  private JTable dataTable;
-
+	  
 	    public TableClickExample() {
 	        setTitle("Table Click Example");
 	        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
