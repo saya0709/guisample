@@ -36,7 +36,9 @@ public class TableClickExample extends JFrame{
 	                return column != 1;
 	            }
 	        };
-
+	        
+	        
+	        
 	        // データテーブルの初期化
 	        dataTable = new JTable(defaultTableModel);
 	        dataTable.addMouseListener(new MouseAdapter() {
